@@ -1,28 +1,42 @@
 const puppeteer = require('puppeteer');
 const randomUseragent = require('random-useragent');
 
-const init = async ()=>{
-    const header = randomUseragent.getRandom();
-    const browser = await puppeteer.launch();
-    const page = await browser.newPage();
-    await page.setUserAgent(header);
-    await page.setViewport({ width: 1920, height: 1080 });
-    await page.goto("https://listado.mercadolibre.com.ec/iphon#D[A:iphon]");
-    //await page.screenshot({ path: "image.png" });
-    await page.waitForSelector(".ui-search-results")
-    const listaItems = await page.$$(".ui-search-layout__item")
+const init = async () => {
+  const header = randomUseragent.getRandom();
+  const browser = await puppeteer.launch();
+  const page = await browser.newPage();
+  await page.setUserAgent(header);
+  await page.setViewport({ width: 1920, height: 1080 });
+  await page.goto("https://okfarma.es/medicamentos#/page-21");
+  await page.click(".icon-table");
+  await page.waitForSelector("#center_column");
+  await page.waitForSelector("#product_list");
+  const listaItems = await page.$$(".ajax_block_product")
+  
 
-    for (const item of listaItems) {
-        const objetoPrecio = await item.$(".price-tag-fraction");
-        const objetoNombre = await item.$(".ui-search-item__title");
+  const lista = [];
 
-        const obtenerPrecio = await page.evaluate(objetoPrecio => objetoPrecio.innerText, objetoPrecio)
-        const obtenerNombre = await page.evaluate(objetoNombre => objetoNombre.innerText, objetoNombre)
+  for (const item of listaItems) {
 
-        console.log(`---${obtenerPrecio}---${obtenerNombre} `)
-    }
-    //await browser.close();
 
+    const objetoPrecio = await item.$(".product-price");
+
+    //const objetoImagen = await item.$(".img-responsive");
+
+    const objetoTexto = await item.$(".product-name");
+
+    const obtenerPrecio = await page.evaluate(objetoPrecio => objetoPrecio.innerText, objetoPrecio);
+    const obtenerTexto = await page.evaluate(objetoTexto => objetoTexto.innerText, objetoTexto);
+
+
+    //const obtenerImagen = await page.evaluate(objetoImagen => objetoImagen.getAttribute("src"), objetoImagen);
+    lista.push({ nombre: obtenerTexto, precio: obtenerPrecio });
+
+  }
+  await browser.close();
+  return JSON.stringify(lista);
+  
 }
-
-init();
+init().then(data => {
+  console.log(data);
+});
