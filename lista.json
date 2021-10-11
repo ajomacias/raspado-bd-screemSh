@@ -1678,5 +1678,2557 @@
     {
         "nombre": "Fresubin Energy Fibre Drink Vainilla 24X200 ML",
         "precio": "88,41 €"
+    },
+    {
+        "nombre": "Fresubin Protein Energy Drink Vainilla 24X200 ML",
+        "precio": "100,55 €"
+    },
+    {
+        "nombre": "Fresubin Protein Energy Drink Fresa 24X200 ML",
+        "precio": "100,53 €"
+    },
+    {
+        "nombre": "Fresubin Energy Drink Fresa 24X200 ML",
+        "precio": "80,61 €"
+    },
+    {
+        "nombre": "Fresubin Energy Drink Capuchino 24X200 ML",
+        "precio": "80,61 €"
+    },
+    {
+        "nombre": "Fresubin Energy Fibre Drink Chocolate 24X200 ML",
+        "precio": "88,41 €"
+    },
+    {
+        "nombre": "Fresubin Energy Fibre Drink Fresa 24X200 ML",
+        "precio": "88,41 €"
+    },
+    {
+        "nombre": "Fresubin 2Kcal Drink Frutas Del Bosque 24X200 ML",
+        "precio": "132,57 €"
+    },
+    {
+        "nombre": "Fresubin 2Kcal Fibre Drink Chocolate 24X200 ML",
+        "precio": "146,29 €"
+    },
+    {
+        "nombre": "Fresubin Protein Energy Drink Capuchino 24X200 ML",
+        "precio": "100,55 €"
+    },
+    {
+        "nombre": "Fresubin Protein Energy Drink Chocolate 24X200 ML",
+        "precio": "100,55 €"
+    },
+    {
+        "nombre": "Fresubin Hp Energy Botellas Vainilla 12X500 ML Easybottle Vainilla",
+        "precio": "124,29 €"
+    },
+    {
+        "nombre": "Vicks Vaporub Pomada 100 GR",
+        "precio": "10,87 €"
+    },
+    {
+        "nombre": "Ordesa Aceite Acalórico 500 ML",
+        "precio": "8,21 €"
+    },
+    {
+        "nombre": "Rinovitex 12500 UI/G Pomada Nasal 10 GR",
+        "precio": "7,94 €"
+    },
+    {
+        "nombre": "Levotuss 6 MG/ML Jarabe 200 ML",
+        "precio": "6,80 €"
+    },
+    {
+        "nombre": "Nicotinell 21 MG 14 Parches",
+        "precio": "56,17 €"
+    },
+    {
+        "nombre": "Fortasec Plus 2 MG/125 MG 12 Comprimidos",
+        "precio": "9,68 €"
+    },
+    {
+        "nombre": "Niquitin 1.5 MG 60 Comprimidos Para Chupar Menta",
+        "precio": "22,24 €"
+    },
+    {
+        "nombre": "Niquitin 4 MG 60 Comprimidos Para Chupar Menta",
+        "precio": "22,24 €"
+    },
+    {
+        "nombre": "Simeticona Normon 120 MG 40 Comprimidos",
+        "precio": "6,21 €"
+    },
+    {
+        "nombre": "Rotercysti 30 Comprimidos Recubierto Con Película",
+        "precio": "16,47 €"
+    },
+    {
+        "nombre": "Couldina Con Ibuprofeno 20 Comprimidos Efervescentes",
+        "precio": "10,26 €"
+    },
+    {
+        "nombre": "Gelocatil 1 GR 10 Comprimidos",
+        "precio": "3,78 €"
+    },
+    {
+        "nombre": "Gelocatil 1 GR Solución Oral 10 Sobres",
+        "precio": "5,36 €"
+    },
+    {
+        "nombre": "Lizifen 8,75 MG 16 Pastillas Para Chupar",
+        "precio": "8,36 €"
+    },
+    {
+        "nombre": "Gelocatil Plus 500 MG/65 MG 20 Comprimidos Recubiertos",
+        "precio": "5,36 €"
+    },
+    {
+        "nombre": "Termalgin Gripe 650 MG/15,58 MG/4 MG 10 Sobres",
+        "precio": "8,29 €"
+    },
+    {
+        "nombre": "Betadine Scrub 7,5% Solución Jabónosa 500 ML",
+        "precio": "7,71 €"
+    },
+    {
+        "nombre": "Bioselenium 25 MG/ML Suspensión Cutánea 100 ML",
+        "precio": "8,83 €"
+    },
+    {
+        "nombre": "Nurofen Junior 100 MG 12 Cápsulas Blandas Masticables",
+        "precio": "5,39 €"
+    },
+    {
+        "nombre": "Nicorette Bucomist 1 MG Spray Fruta Menta 13,2 ML",
+        "precio": "31,05 €"
+    },
+    {
+        "nombre": "ArkoCápsulas Cola De Caballo 200 Cápsulas",
+        "precio": "21,57 €"
+    },
+    {
+        "nombre": "ArkoCápsulas Hipérico 42 Cápsulas",
+        "precio": "12,76 €"
+    },
+    {
+        "nombre": "Becozyme C Forte 30 Comprimidos Recubiertos",
+        "precio": "12,07 €"
+    },
+    {
+        "nombre": "Orlidunn 60 MG 42 Cápsulas Duras",
+        "precio": "26,69 €"
+    },
+    {
+        "nombre": "Orlidunn 60 MG 84 Cápsulas Duras",
+        "precio": "35,41 €"
+    },
+    {
+        "nombre": "Bronchostop Niños Jarabe 200 ML",
+        "precio": "11,66 €"
+    },
+    {
+        "nombre": "Respidina 120 MG 14 Comprimidos Liberación Prolongada",
+        "precio": "5,31 €"
+    },
+    {
+        "nombre": "Nurofen Pediátrico 20 MG/ML Suspensión Oral Fresa 200 ML",
+        "precio": "6,80 €"
+    },
+    {
+        "nombre": "Actimag Solución Oral 100 ML",
+        "precio": "13,47 €"
+    },
+    {
+        "nombre": "Piroxgel 6 MG/ML Champú 200 ML",
+        "precio": "15,35 €"
+    },
+    {
+        "nombre": "Cinfatos Expectorante 2/20 MG/ML Solución Oral 200 ML",
+        "precio": "7,52 €"
+    },
+    {
+        "nombre": "Artific Colirio Unidosis 30x05 ML",
+        "precio": "7,74 €"
+    },
+    {
+        "nombre": "Artific Colirio Solución 10 ML",
+        "precio": "5,76 €"
+    },
+    {
+        "nombre": "Romilar 15 MG/ML Gotas Orales En Solución 20 ML",
+        "precio": "4,82 €"
+    },
+    {
+        "nombre": "Hidrathea 9 MG/ML Colirio En Solución 10 ML",
+        "precio": "5,38 €"
+    },
+    {
+        "nombre": "Siccafluid 2,5 MG/GR Gel Oftálmico 60 Unidosis",
+        "precio": "11,24 €"
+    },
+    {
+        "nombre": "Romilar 15 MG/5 ML Jarabe 200 ML",
+        "precio": "7,11 €"
+    },
+    {
+        "nombre": "Daflon 500 MG 60 Comprimidos",
+        "precio": "18,45 €"
+    },
+    {
+        "nombre": "Mastical 500 MG 90 Comprimidos masticables",
+        "precio": "3,71 €"
+    },
+    {
+        "nombre": "Buscapina 10 MG 60 Comprimidos recubiertos",
+        "precio": "6,23 €"
+    },
+    {
+        "nombre": "Paracetamol Level 100 MG/ML Solución Oral 60 ML",
+        "precio": "2,81 €"
+    },
+    {
+        "nombre": "Paracetamol Normon 500 MG 20 comprimidos",
+        "precio": "0,60 €"
+    },
+    {
+        "nombre": "Paracetamol Normon 650 MG 20 comprimidos",
+        "precio": "0,77 €"
+    },
+    {
+        "nombre": "Paracetamol Normon 650 MG 40 comprimidos",
+        "precio": "1,18 €"
+    },
+    {
+        "nombre": "Paracetamol Kern Pharma 100 MG/ML Solución oral 30 ML",
+        "precio": "1,58 €"
+    },
+    {
+        "nombre": "Paracetamol Kern Pharma 100 MG/ML Solución oral 60 ML",
+        "precio": "2,81 €"
+    },
+    {
+        "nombre": "Paracetamol Teva 650 MG 20 Comprimidos",
+        "precio": "3,38 €"
+    },
+    {
+        "nombre": "Apiretal 325 MG 24 Comprimidos bucodispersables",
+        "precio": "3,65 €"
+    },
+    {
+        "nombre": "Apiretal 500 MG 12 Comprimidos bucodispersables",
+        "precio": "2,25 €"
+    },
+    {
+        "nombre": "Acuolens Colirio en solución 30 unidosis",
+        "precio": "6,93 €"
+    },
+    {
+        "nombre": "Dolalgial 125 MG 20 Comprimidos",
+        "precio": "4,91 €"
+    },
+    {
+        "nombre": "Mastical 500 MG 60 Comprimidos masticables",
+        "precio": "2,48 €"
+    },
+    {
+        "nombre": "Prospantus 35 MG Jarabe 21 Sobres",
+        "precio": "8,36 €"
+    },
+    {
+        "nombre": "Trilombrin 6 Comprimidos Masticables",
+        "precio": "4,50 €"
+    },
+    {
+        "nombre": "Trilombrin Suspensión oral 30 ML",
+        "precio": "3,23 €"
+    },
+    {
+        "nombre": "Sueroral Casen Polvo Para Solución Oral 5 Sobres",
+        "precio": "3,48 €"
+    },
+    {
+        "nombre": "Sueroral Hiposódico Polvo Para Solución Oral 5 Sobres",
+        "precio": "2,88 €"
+    },
+    {
+        "nombre": "Carmelosa Stada 5 MG/ML Colirio en Solución 30 Unidosis",
+        "precio": "5,90 €"
+    },
+    {
+        "nombre": "Tusclin 7 MG/ML Jarabe 100 ML",
+        "precio": "7,03 €"
+    },
+    {
+        "nombre": "Voltadol 11,6 MG/GR Gel Tópico Con Tapón 75 GR",
+        "precio": "10,02 €"
+    },
+    {
+        "nombre": "Betadine Solución cutánea 0,5 GR 10 Unidosis",
+        "precio": "6,19 €"
+    },
+    {
+        "nombre": "Apiretal 100 MG/ML Solución Oral 60 ML",
+        "precio": "2,81 €"
+    },
+    {
+        "nombre": "Apiretal 100 MG/ML Solución Oral 30 ML",
+        "precio": "1,58 €"
+    },
+    {
+        "nombre": "Carbocal 600 MG 60 Comprimidos",
+        "precio": "2,96 €"
+    },
+    {
+        "nombre": "Febrectal Lactantes 150 MG 6 Supositorios",
+        "precio": "1,17 €"
+    },
+    {
+        "nombre": "Febrectal Niños 300 MG 6 Supositorios",
+        "precio": "4,41 €"
+    },
+    {
+        "nombre": "Linitul 20 Apósitos Impregnados 8,5 x 10 CM",
+        "precio": "6,58 €"
+    },
+    {
+        "nombre": "Nani Predental Benzocaína 10 GR",
+        "precio": "6,44 €"
+    },
+    {
+        "nombre": "Otogen Calmante Gotas Óticas En Solución 7,5 ML",
+        "precio": "6,84 €"
+    },
+    {
+        "nombre": "Phonal Spray 20 ML",
+        "precio": "7,08 €"
+    },
+    {
+        "nombre": "Pranzo Solución Oral 200 ML",
+        "precio": "7,26 €"
+    },
+    {
+        "nombre": "Romilar 15 MG 20 Comprimidos",
+        "precio": "3,15 €"
+    },
+    {
+        "nombre": "Termalgin 500 MG 20 Comprimidos",
+        "precio": "3,31 €"
+    },
+    {
+        "nombre": "Trofalgon 20 Cápsulas",
+        "precio": "6,89 €"
+    },
+    {
+        "nombre": "Dermovagisil 20 MG/GR Crema Vaginal Lidocaína 15 GR",
+        "precio": "6,08 €"
+    },
+    {
+        "nombre": "Febrectal 650 MG 20 Comprimidos",
+        "precio": "4,41 €"
+    },
+    {
+        "nombre": "Efferaldol Con Vitamina C 20 Comprimidos Efervescentes",
+        "precio": "4,41 €"
+    },
+    {
+        "nombre": "Betadine 4% Solución Jabonosa 125 ML",
+        "precio": "6,41 €"
+    },
+    {
+        "nombre": "Cristalmina Film 1% Gel Tópico 30 GR",
+        "precio": "5,84 €"
+    },
+    {
+        "nombre": "Rennie 48 Comprimidos Masticables Sabor Menta",
+        "precio": "6,91 €"
+    },
+    {
+        "nombre": "Callívoro Marthand 1 Apósito 7X4 CM",
+        "precio": "3,60 €"
+    },
+    {
+        "nombre": "Efferalgan 500 MG 24 Cápsulas",
+        "precio": "1,83 €"
+    },
+    {
+        "nombre": "Efferalgan 500 MG 20 Comprimidos Efervescentes",
+        "precio": "1,63 €"
+    },
+    {
+        "nombre": "Armaya Fuerte 120 MG 24 Cápsulas",
+        "precio": "11,00 €"
+    },
+    {
+        "nombre": "Apiretal Niños 250 MG 5 Supositorios",
+        "precio": "3,74 €"
+    },
+    {
+        "nombre": "Bisolvon Antitusivo 2 MG/ML 200 ML",
+        "precio": "7,97 €"
+    },
+    {
+        "nombre": "Peroxiben Gel 25 MG/GR 30 GR",
+        "precio": "9,64 €"
+    },
+    {
+        "nombre": "Peroxiben Gel 50 MG/GR 30 GR",
+        "precio": "9,94 €"
+    },
+    {
+        "nombre": "Normosept 10 MG/ML Solución Tópica 30 ML",
+        "precio": "5,36 €"
+    },
+    {
+        "nombre": "Broncomedical Jarabe 180 ML",
+        "precio": "6,26 €"
+    },
+    {
+        "nombre": "Peroxiben 100 MG/GR Gel 60 GR",
+        "precio": "14,59 €"
+    },
+    {
+        "nombre": "Peroxiben 50 MG/GR Gel 60 GR",
+        "precio": "13,01 €"
+    },
+    {
+        "nombre": "Menalcol Reforzado Alcohol 70º Con Clorhexidina 250 ML",
+        "precio": "2,16 €"
+    },
+    {
+        "nombre": "Betadine Solución Vaginal 125 ML",
+        "precio": "6,41 €"
+    },
+    {
+        "nombre": "Betadine Solución Bucal 125 ML",
+        "precio": "6,41 €"
+    },
+    {
+        "nombre": "Natecal Calcio 600 MG 60 Comprimidos Masticables",
+        "precio": "2,96 €"
+    },
+    {
+        "nombre": "Benerva 300 MG 20 Comprimidos Recubiertos Con Película",
+        "precio": "2,53 €"
+    },
+    {
+        "nombre": "Nicotinell 14 MG/24 Horas 14 Parches Transdérmicos",
+        "precio": "56,17 €"
+    },
+    {
+        "nombre": "Kaloba 21 Comprimidos Recubiertos Con Película",
+        "precio": "9,39 €"
+    },
+    {
+        "nombre": "Efferalgan Pediatrico Jarabe 90 ML",
+        "precio": "1,46 €"
+    },
+    {
+        "nombre": "Mirazul 1,25 MG/ML Colirio En Solución 10 ML",
+        "precio": "6,71 €"
+    },
+    {
+        "nombre": "Variliv Diosmina 500 MG 60 Comprimidos",
+        "precio": "13,46 €"
+    },
+    {
+        "nombre": "Foliferron 30 Comprimidos Recubiertos",
+        "precio": "1,22 €"
+    },
+    {
+        "nombre": "Calcio 20 Emulsión 300 ML",
+        "precio": "2,25 €"
+    },
+    {
+        "nombre": "Nicotinell 2 MG Fruit 24 Chicles",
+        "precio": "9,84 €"
+    },
+    {
+        "nombre": "Blastoestimulina Polvo Cutáneo 2% 5 GR",
+        "precio": "12,02 €"
+    },
+    {
+        "nombre": "Efferaldol Flas 500 MG 16 Comprimidos Bucodispersables",
+        "precio": "3,51 €"
+    },
+    {
+        "nombre": "Orlidunn 60 MG 120 Cápsulas Duras",
+        "precio": "52,71 €"
+    },
+    {
+        "nombre": "Cistina 40 Comprimidos",
+        "precio": "7,56 €"
+    },
+    {
+        "nombre": "Isopto B12 Colirio En Solución Cianocobalamina 5 ML",
+        "precio": "8,64 €"
+    },
+    {
+        "nombre": "Bactil 10 MG 20 Comprimidos Recubiertos Con Película",
+        "precio": "12,60 €"
+    },
+    {
+        "nombre": "Oculotect 50 MG/ML Colirio En Solución 10 ML",
+        "precio": "6,54 €"
+    },
+    {
+        "nombre": "Oculotect 50 MG/ML Colirio Monodosis 20x0,4 ML",
+        "precio": "7,61 €"
+    },
+    {
+        "nombre": "Febrectal Adultos 600 MG 6 Supositorios",
+        "precio": "4,41 €"
+    },
+    {
+        "nombre": "Fenergán Crema 30 GR",
+        "precio": "3,81 €"
+    },
+    {
+        "nombre": "Rosalgin Pronto 140 MG Solución Vaginal 5 Unidosis",
+        "precio": "10,96 €"
+    },
+    {
+        "nombre": "Mercromina Film 30 ML",
+        "precio": "4,28 €"
+    },
+    {
+        "nombre": "Mosegor 0,5 MG/10 ML Solución Oral 200 ML",
+        "precio": "8,96 €"
+    },
+    {
+        "nombre": "Odamina Solución Para Enjuague Bucal 135 ML",
+        "precio": "5,84 €"
+    },
+    {
+        "nombre": "Salcedol Polvo Oral 125 GR",
+        "precio": "7,59 €"
+    },
+    {
+        "nombre": "Saridon 20 Comprimidos",
+        "precio": "8,47 €"
+    },
+    {
+        "nombre": "Ionil Champú 200 ML",
+        "precio": "16,18 €"
+    },
+    {
+        "nombre": "Epistaxol Solución Cutánea 10 ML",
+        "precio": "4,46 €"
+    },
+    {
+        "nombre": "Agua Del Carmen Solución Oral 100 ML",
+        "precio": "7,94 €"
+    },
+    {
+        "nombre": "Agua Del Carmen Solución Oral 200 ML",
+        "precio": "10,58 €"
+    },
+    {
+        "nombre": "Hurricaine 200 MG/ML Gel Bucal 6 ML",
+        "precio": "10,94 €"
+    },
+    {
+        "nombre": "Proctolog Pomada 15 GR",
+        "precio": "8,64 €"
+    },
+    {
+        "nombre": "Proctolog Pomada 30 GR",
+        "precio": "14,06 €"
+    },
+    {
+        "nombre": "Callicida Kendu 500 MG/GR Pomada 10 GR",
+        "precio": "7,87 €"
+    },
+    {
+        "nombre": "Peroxiben 100 MG/GR Gel 30 ML",
+        "precio": "11,60 €"
+    },
+    {
+        "nombre": "Paracetamol Winthrop 500 MG 20 Comprimidos",
+        "precio": "1,76 €"
+    },
+    {
+        "nombre": "Aspitopic 50 MG/GR 60 GR",
+        "precio": "7,29 €"
+    },
+    {
+        "nombre": "Betadine Solución dérmica 125 ML",
+        "precio": "6,84 €"
+    },
+    {
+        "nombre": "Omeprazol Omeprotect 20 MG 14 Cápsulas (Frasco)",
+        "precio": "3,56 €"
+    },
+    {
+        "nombre": "Regaxidil 50 MG/ML Solución Cutánea 60 ML",
+        "precio": "11,21 €"
+    },
+    {
+        "nombre": "Regaxidil 50 MG/ML Solución Cutánea 120 ML",
+        "precio": "19,28 €"
+    },
+    {
+        "nombre": "Regaxidil 20 MG/ML Solución Cutánea 120 ML",
+        "precio": "17,37 €"
+    },
+    {
+        "nombre": "Regaxidil 20 MG/ML Solución Cutánea 240 ML",
+        "precio": "21,42 €"
+    },
+    {
+        "nombre": "Regaxidil 20 MG/ML Solución Cutánea 60 ML",
+        "precio": "13,50 €"
+    },
+    {
+        "nombre": "Pharmatusgrip 10 Sobres",
+        "precio": "8,24 €"
+    },
+    {
+        "nombre": "Levonorgestrel Aurovitas 1,5 MG 1 Comprimido",
+        "precio": "15,32 €"
+    },
+    {
+        "nombre": "Minoxidil Viñas 50MG/ML 240 ML",
+        "precio": "21,14 €"
+    },
+    {
+        "nombre": "Minoxidil Viñas 50 MG/ML 60 ML",
+        "precio": "11,24 €"
+    },
+    {
+        "nombre": "Minoxidil Viñas 50 MG/ML 120 ML",
+        "precio": "18,00 €"
+    },
+    {
+        "nombre": "Minoxidil Viñas 50 MG/ML 180 ML",
+        "precio": "20,03 €"
+    },
+    {
+        "nombre": "Bactil Forte 20 MG 20 Comprimidos",
+        "precio": "12,60 €"
+    },
+    {
+        "nombre": "Geloprofen 400 Lisina 12 Sobres con Sabor Limón Efervescentes",
+        "precio": "5,39 €"
+    },
+    {
+        "nombre": "Lizipaina Clorhexidina/Benzocaina 5/2.5 MG 20 Comprimidos para Chupar",
+        "precio": "7,41 €"
+    },
+    {
+        "nombre": "Cinfatos 2 MG/ML Solución Oral 1 Frasco 200 ML",
+        "precio": "7,34 €"
+    },
+    {
+        "nombre": "Dolostop 1 GR 10 Comprimidos",
+        "precio": "3,15 €"
+    },
+    {
+        "nombre": "Dolostop Plus 500/150 MG 16 Comprimidos Recubiertos",
+        "precio": "6,28 €"
+    },
+    {
+        "nombre": "Omeprazol Healthkern 20 MG 14 Cápsulas Gastrorresistentes",
+        "precio": "3,51 €"
+    },
+    {
+        "nombre": "Voltadol Forte 23,2 MG/G 100 GR Gel",
+        "precio": "13,88 €"
+    },
+    {
+        "nombre": "Fodonal 3 MG 24 Pastillas para Chupar Limón",
+        "precio": "7,61 €"
+    },
+    {
+        "nombre": "Actromadol 660 MG 8 Comprimidos de Liberación Modificada",
+        "precio": "4,28 €"
+    },
+    {
+        "nombre": "Espididol 400 MG 18 Comprimidos Recubiertos",
+        "precio": "5,36 €"
+    },
+    {
+        "nombre": "Flebikern 500 MG 60 Comprimidos",
+        "precio": "15,26 €"
+    },
+    {
+        "nombre": "Ambroxol Cinfa EFG 15 MG/5 ML Jarabe 1 Frasco 200 ML",
+        "precio": "3,96 €"
+    },
+    {
+        "nombre": "Ambroxol Sandoz Care EFG 3 MG/ML Jarabe 1 Frasco 125 ML",
+        "precio": "5,72 €"
+    },
+    {
+        "nombre": "Amidrin 1 MG/ML Nebulizador Nasal 15 ML",
+        "precio": "6,26 €"
+    },
+    {
+        "nombre": "Antidol 500 MG 20 Comprimidos Recubiertos",
+        "precio": "3,29 €"
+    },
+    {
+        "nombre": "Abrasone Rectal Crema 30 GR",
+        "precio": "9,84 €"
+    },
+    {
+        "nombre": "Acetilcisteína Aristo 600 MG 10 Comprimidos Efervescentes",
+        "precio": "3,51 €"
+    },
+    {
+        "nombre": "Acetilcisteína Normon 200 MG 30 Sobres",
+        "precio": "5,36 €"
+    },
+    {
+        "nombre": "Acetilcisteína Sandoz Care 200 MG 20 Sobres",
+        "precio": "5,68 €"
+    },
+    {
+        "nombre": "Acetilcisteína Sandoz Care 600 MG 10 Comprimidos Efervescentes",
+        "precio": "5,68 €"
+    },
+    {
+        "nombre": "Acetilcisteína Stada 600 MG 20 Comprimidos Efervescentes",
+        "precio": "4,46 €"
+    },
+    {
+        "nombre": "Aciclovir Sandoz 50 MG/GR Crema 2 GR",
+        "precio": "3,51 €"
+    },
+    {
+        "nombre": "Adulax Solución Rectal 4x7,5 GR",
+        "precio": "7,56 €"
+    },
+    {
+        "nombre": "Foret Agua Oxigenada 500 ML",
+        "precio": "3,58 €"
+    },
+    {
+        "nombre": "Alcomon Alcohol 96 Grados 250 ML",
+        "precio": "2,25 €"
+    },
+    {
+        "nombre": "Orravan Alcohol Alcanforado Solución 500 ML",
+        "precio": "4,54 €"
+    },
+    {
+        "nombre": "Orravan Alcohol Alcanforado Solución 250 ML",
+        "precio": "3,65 €"
+    },
+    {
+        "nombre": "Alercina 10 MG 7 Comprimidos Recubiertos",
+        "precio": "4,46 €"
+    },
+    {
+        "nombre": "Alergoftal Colirio En Solución 10 ML",
+        "precio": "7,76 €"
+    },
+    {
+        "nombre": "Algifast 400 MG 12 Sobres",
+        "precio": "5,39 €"
+    },
+    {
+        "nombre": "Almax 500 MG 18 Comprimidos Masticables",
+        "precio": "6,07 €"
+    },
+    {
+        "nombre": "Almax 500 MG 54 Comprimidos Masticables",
+        "precio": "9,86 €"
+    },
+    {
+        "nombre": "Aloxidil 50 MG/ML Solución Cutánea 60 ML",
+        "precio": "8,99 €"
+    },
+    {
+        "nombre": "Arkopharma Amapola De California 45 Cápsulas",
+        "precio": "8,44 €"
+    },
+    {
+        "nombre": "Apiretal 500 MG 24 Comprimidos Bucodispersables",
+        "precio": "4,36 €"
+    },
+    {
+        "nombre": "Apogrip 650/4/10 MG 10 Sobres Polvo Solución Oral",
+        "precio": "7,03 €"
+    },
+    {
+        "nombre": "Apoxol EFG 3 mg/ml Jarabe 1 Frasco 200 ML",
+        "precio": "5,27 €"
+    },
+    {
+        "nombre": "Arimuc 50 MG/ML Solución Oral 1 Frasco 200 ML",
+        "precio": "5,62 €"
+    },
+    {
+        "nombre": "Aritos 2 MG/ML Solución Oral 1 Frasco 200 ML",
+        "precio": "6,21 €"
+    },
+    {
+        "nombre": "Arkocapsulas Camilina 300 MG 200 Cápsulas",
+        "precio": "21,57 €"
+    },
+    {
+        "nombre": "Arkocapsulas Echinacea 250 MG 42 Cápsulas",
+        "precio": "8,44 €"
+    },
+    {
+        "nombre": "Arkocapsulas Ginkgo Biloba 180 MG 84 Cápsulas",
+        "precio": "12,76 €"
+    },
+    {
+        "nombre": "Arkocapsulas Ginkgo Biloba 180 MG 200 Cápsulas",
+        "precio": "20,11 €"
+    },
+    {
+        "nombre": "Armaya Fuerte 96 Cápsulas",
+        "precio": "20,03 €"
+    },
+    {
+        "nombre": "Arnicamed 500 MG/GR Gel 100 ML",
+        "precio": "12,44 €"
+    },
+    {
+        "nombre": "Articalm 50 MG/GR Gel 60 GR",
+        "precio": "7,73 €"
+    },
+    {
+        "nombre": "Aspirina 500 MG 20 Comprimidos Efervescentes",
+        "precio": "8,79 €"
+    },
+    {
+        "nombre": "Aspirina 500 MG Granulado 20 Sobres",
+        "precio": "8,79 €"
+    },
+    {
+        "nombre": "Bactil Flas 10 MG 10 Liofilizados Orales",
+        "precio": "9,86 €"
+    },
+    {
+        "nombre": "Bactil Forte Flas 20 MG 10 Liofilizados Orales",
+        "precio": "9,86 €"
+    },
+    {
+        "nombre": "Bekunis Instant Polvo Para Solución Oral",
+        "precio": "5,74 €"
+    },
+    {
+        "nombre": "Bemolan 800 MG Gel Oral 30 Sobres",
+        "precio": "4,50 €"
+    },
+    {
+        "nombre": "Bester Complex 30 Cápsulas",
+        "precio": "9,46 €"
+    },
+    {
+        "nombre": "Betadine 4% Solución Jabonosa 500 ML",
+        "precio": "7,71 €"
+    },
+    {
+        "nombre": "Betadine Gel 100 GR",
+        "precio": "7,19 €"
+    },
+    {
+        "nombre": "Betatul 250 MG 10 Apósitos Adhesivos",
+        "precio": "9,78 €"
+    },
+    {
+        "nombre": "Bicarbonato NM 1 GR 42 Sobres",
+        "precio": "14,75 €"
+    },
+    {
+        "nombre": "Bisolgrip Forte 650 MG 10 Sobres",
+        "precio": "8,72 €"
+    },
+    {
+        "nombre": "Bronchogrip 10 Sobres",
+        "precio": "8,96 €"
+    },
+    {
+        "nombre": "Bronchostop Antitusivo y Expectorante 20 Pastillas Blandas",
+        "precio": "8,99 €"
+    },
+    {
+        "nombre": "Bronchostop Tos 20 Pastillas Blandas",
+        "precio": "8,09 €"
+    },
+    {
+        "nombre": "Bucomax Menta 24 Pastillas Para Chupar",
+        "precio": "6,48 €"
+    },
+    {
+        "nombre": "Bucoxon 20 MG Menta 18 Pastillas Para Chupar",
+        "precio": "7,56 €"
+    },
+    {
+        "nombre": "Buscapidol 0,2 ML 24 Cápsulas Blandas Gastrorresistentes",
+        "precio": "8,55 €"
+    },
+    {
+        "nombre": "Calmagrip Forte 10 Sobres",
+        "precio": "7,64 €"
+    },
+    {
+        "nombre": "Calmante Vitaminado 20 Comprimidos",
+        "precio": "4,86 €"
+    },
+    {
+        "nombre": "Calmiox 5 MG/G Espuma Cutánea 1 Envase a Presión 50 GR",
+        "precio": "8,08 €"
+    },
+    {
+        "nombre": "Canespie Bifonazol 10 MG/G Crema 1 Tubo 15 GR + Aplicador",
+        "precio": "10,34 €"
+    },
+    {
+        "nombre": "Capsidol 0,25 MG/G Crema 1 Tubo 30 GR",
+        "precio": "11,02 €"
+    },
+    {
+        "nombre": "Capsidol 0,25 MG/G Crema 1 Tubo 60 GR",
+        "precio": "15,25 €"
+    },
+    {
+        "nombre": "Cellufresh 5 MG/ML Colirio en Solución 30 Monodosis 0,4 ML",
+        "precio": "11,97 €"
+    },
+    {
+        "nombre": "Cenat 400 GR",
+        "precio": "7,76 €"
+    },
+    {
+        "nombre": "Centilux Solución Oftal 10 ML",
+        "precio": "6,98 €"
+    },
+    {
+        "nombre": "Cinfadol Diclofenaco 11,6 MG/G Gel Cutáneo 1 Tubo 60 GR",
+        "precio": "6,21 €"
+    },
+    {
+        "nombre": "Cinfadol10 MG/G Gel Topic",
+        "precio": "8,82 €"
+    },
+    {
+        "nombre": "Cinfahelix Jarabe 1 Frasco 100 ML",
+        "precio": "6,71 €"
+    },
+    {
+        "nombre": "Cinfahelix Jarabe 1 Frasco 200 ML",
+        "precio": "9,77 €"
+    },
+    {
+        "nombre": "Cinfamar 50 MG 4 Comprimidos",
+        "precio": "3,15 €"
+    },
+    {
+        "nombre": "Cinfamar Cafeina 4 Comprimidos EFP",
+        "precio": "3,33 €"
+    },
+    {
+        "nombre": "Cinfamucol Acetilcisteina 200 MG 20 Sobres en Polvo",
+        "precio": "5,27 €"
+    },
+    {
+        "nombre": "Cinfamucol Acetilcisteina 600 MG 10 Comprimidos Efervescentes",
+        "precio": "5,81 €"
+    },
+    {
+        "nombre": "Cinfamucol Aceltilcisteina 600 MG 10 Sobres Polvo",
+        "precio": "5,81 €"
+    },
+    {
+        "nombre": "Cinfamucol Carbocisteina 750 MG 12 Sobres Solución Oral 15 ML",
+        "precio": "7,52 €"
+    },
+    {
+        "nombre": "Cinfatos Complex 125 ML",
+        "precio": "6,48 €"
+    },
+    {
+        "nombre": "Cinfatos Descongestivo Solución Oral 1 Frasco 200 ML",
+        "precio": "7,52 €"
+    },
+    {
+        "nombre": "Cinfatos Expectorante 2 MG/ML + 20 MG/ML Solución Oral 1 Frasco",
+        "precio": "6,48 €"
+    },
+    {
+        "nombre": "Circulaveel 360 MG 30 Comprimidos Recubiertos",
+        "precio": "10,76 €"
+    },
+    {
+        "nombre": "Clarityne 10 MG 7 Comprimidos",
+        "precio": "5,96 €"
+    },
+    {
+        "nombre": "Clarityne Plus 10 MG/240 MG 7 Comprimidos Liberación Prolongada",
+        "precio": "9,61 €"
+    },
+    {
+        "nombre": "Clisteran 450 MG/ML + 45 MG/ML Solución Rectal 1 Enema 5 ML",
+        "precio": "2,11 €"
+    },
+    {
+        "nombre": "Clorxil 10 MG/ML Solución para Pulverización Cutánea 1 Frasco",
+        "precio": "7,73 €"
+    },
+    {
+        "nombre": "Arkopharma Cola de Caballo 190 MG 42 Cápsulas",
+        "precio": "8,44 €"
+    },
+    {
+        "nombre": "Diltix 47 MG/ML Solución para Pulverización Cutánea 1 Frasco",
+        "precio": "8,26 €"
+    },
+    {
+        "nombre": "Diltix 50 MG/G Gel Cutáneo 1 Tubo 30 GR",
+        "precio": "4,64 €"
+    },
+    {
+        "nombre": "Diltix 50 MG/G Gel Cutáneo 1 Tubo 60 GR",
+        "precio": "6,28 €"
+    },
+    {
+        "nombre": "Dinaxil Capilar 20 MG/ML Solución Cutánea 1 Frasco 60 ML",
+        "precio": "11,75 €"
+    },
+    {
+        "nombre": "Dinaxil Capilar 20 MG/ML Solución Cutánea 2 Frascos 60 ML",
+        "precio": "15,75 €"
+    },
+    {
+        "nombre": "Dacrolux Colirio En Solución 10 ML",
+        "precio": "8,04 €"
+    },
+    {
+        "nombre": "Dalsy 400 MG 30 Comprimidos Recubiertos",
+        "precio": "4,95 €"
+    },
+    {
+        "nombre": "Ibudol 50 MG/GR Gel Roll On 60 GR",
+        "precio": "8,06 €"
+    },
+    {
+        "nombre": "Diclofenaco Kern Pharma 11,6 MG/GR Gel 100 GR",
+        "precio": "6,79 €"
+    },
+    {
+        "nombre": "Difur 120 MG 24 Cápsulas",
+        "precio": "11,00 €"
+    },
+    {
+        "nombre": "Disolgas 257,5 MG 32 Cápsulas Blandas",
+        "precio": "7,62 €"
+    },
+    {
+        "nombre": "Dolostop 1 GR 10 Sobres Solución Oral 10 ML",
+        "precio": "5,62 €"
+    },
+    {
+        "nombre": "Dolostop 500 MG 10 Sobres Solución Oral 10 ML",
+        "precio": "4,21 €"
+    },
+    {
+        "nombre": "Dolostop 500 MG 20 Comprimidos",
+        "precio": "3,51 €"
+    },
+    {
+        "nombre": "Dolostop 650 MG 10 Sobres Solución Oral 10 ML",
+        "precio": "5,62 €"
+    },
+    {
+        "nombre": "Dolostop 650 MG 20 Comprimidos EFG",
+        "precio": "4,03 €"
+    },
+    {
+        "nombre": "Dolostop Pediátrico 100 MG/ML Solución Oral 1 Frasco 30 ML",
+        "precio": "2,43 €"
+    },
+    {
+        "nombre": "Dormikern 25 MG 14 Comprimidos Recubiertos",
+        "precio": "6,21 €"
+    },
+    {
+        "nombre": "Doxidina 25 MG 14 Comprimidos Recubiertos",
+        "precio": "6,74 €"
+    },
+    {
+        "nombre": "Echinacin Madaus 800 MG/ML Solución Oral 1 Frasco 50 ML",
+        "precio": "6,35 €"
+    },
+    {
+        "nombre": "Echinamed Gotas Orales en Solución 1 Frasco 50 ML",
+        "precio": "11,51 €"
+    },
+    {
+        "nombre": "Echinamed Hot Drink Concentrado para Solución Oral 1 Frasco",
+        "precio": "11,03 €"
+    },
+    {
+        "nombre": "Echinamed Junior 120 Comprimidos",
+        "precio": "13,44 €"
+    },
+    {
+        "nombre": "Echinamed Plus Solución para Pulverización Bucal 30 ML",
+        "precio": "11,62 €"
+    },
+    {
+        "nombre": "Elevit 30 Comprimidos Recubiertos",
+        "precio": "18,45 €"
+    },
+    {
+        "nombre": "Elimens 60 MG 42 Cápsulas",
+        "precio": "27,89 €"
+    },
+    {
+        "nombre": "Elimens 60 MG 84 Cápsulas",
+        "precio": "41,11 €"
+    },
+    {
+        "nombre": "Ellaone 30 MG 1 Comprimido",
+        "precio": "26,91 €"
+    },
+    {
+        "nombre": "Arkopharma Espino Albar 350 MG 84 Cápsulas",
+        "precio": "13,68 €"
+    },
+    {
+        "nombre": "Hepamed 60 Comprimidos",
+        "precio": "14,32 €"
+    },
+    {
+        "nombre": "Herbion 16 Pastillas para Chupar",
+        "precio": "6,26 €"
+    },
+    {
+        "nombre": "Hibiscrub 40 MG/ML Solución Tópica 500 ML",
+        "precio": "7,04 €"
+    },
+    {
+        "nombre": "Hipromelosa Qualigen 3,2 MG/ML Colirio en Solución 30 Monodosis",
+        "precio": "5,34 €"
+    },
+    {
+        "nombre": "Hirudoid Pomada 40 GR",
+        "precio": "4,54 €"
+    },
+    {
+        "nombre": "Ibucalm 50 MG/G Gel Cutáneo Mentolado 1 Tubo 60 GR",
+        "precio": "7,16 €"
+    },
+    {
+        "nombre": "Ibudol 50 MG/G Gel Cutáneo 1 Tubo 30 GR",
+        "precio": "6,26 €"
+    },
+    {
+        "nombre": "Ibudol 50 MG/G Gel Cutáneo 1 Tubo 60 GR",
+        "precio": "8,96 €"
+    },
+    {
+        "nombre": "Ibukey 50 MG/G Gel Cutáneo 1 Tubo 60 GR",
+        "precio": "7,16 €"
+    },
+    {
+        "nombre": "Farmasierra Ibuprofeno 50 MG/G Gel Cutáneo 1 Tubo 50 GR",
+        "precio": "5,34 €"
+    },
+    {
+        "nombre": "Ibuprofeno Mabo-Farma EFG 400 MG 20 Comprimidos Recubiertos",
+        "precio": "3,86 €"
+    },
+    {
+        "nombre": "Imonogas 240 MG 30 Cápsulas Blandas",
+        "precio": "10,31 €"
+    },
+    {
+        "nombre": "Kaloba Gotas Orales 20 ML",
+        "precio": "6,87 €"
+    },
+    {
+        "nombre": "Kaloba Gotas Orales 50 ML",
+        "precio": "14,77 €"
+    },
+    {
+        "nombre": "Kaloba Jarabe 100 ML",
+        "precio": "7,87 €"
+    },
+    {
+        "nombre": "Kanova Adultos Solución Rectal 6 Enemas",
+        "precio": "5,83 €"
+    },
+    {
+        "nombre": "Kerngrip 10 Sobres",
+        "precio": "7,92 €"
+    },
+    {
+        "nombre": "Lacryvisc Gel Oftálmico 10 GR",
+        "precio": "15,53 €"
+    },
+    {
+        "nombre": "Lacteol 10 Sobres",
+        "precio": "9,81 €"
+    },
+    {
+        "nombre": "Lagroben 5 MG/ML Colirio 30x0,4 ML",
+        "precio": "7,16 €"
+    },
+    {
+        "nombre": "Lairesp 0,5 MG/ML Nebulizador Nasal 15 ML",
+        "precio": "4,36 €"
+    },
+    {
+        "nombre": "Laitos 3 MG/ML Jarabe 200 ML",
+        "precio": "5,76 €"
+    },
+    {
+        "nombre": "Lasea 80 MG 28 Cápsulas Blandas",
+        "precio": "16,02 €"
+    },
+    {
+        "nombre": "Lebersal Granulado Efervescente 100 GR",
+        "precio": "5,58 €"
+    },
+    {
+        "nombre": "Levonorgestrel Mylan 1,5 MG 1 Comprimido",
+        "precio": "17,10 €"
+    },
+    {
+        "nombre": "Licostrata Gel 30 GR",
+        "precio": "27,40 €"
+    },
+    {
+        "nombre": "Linitul 20 Apósitos Impregnados 15 x 25 CM",
+        "precio": "14,40 €"
+    },
+    {
+        "nombre": "Linitul 20 Apósitos Impregnados 9 x 15 CM",
+        "precio": "10,53 €"
+    },
+    {
+        "nombre": "Linitul 10 Apósitos Impregnados 5,5 x 8 CM",
+        "precio": "6,58 €"
+    },
+    {
+        "nombre": "Linomed Granulado 300 GR",
+        "precio": "11,69 €"
+    },
+    {
+        "nombre": "Lizifen 8,75 MG 16 Pastillas Para Chupar",
+        "precio": "8,36 €"
+    },
+    {
+        "nombre": "Locetar 50 MG/ML Barniz De Uñas 5 ML",
+        "precio": "18,86 €"
+    },
+    {
+        "nombre": "Loperan 2 MG 10 Cápsulas",
+        "precio": "5,41 €"
+    },
+    {
+        "nombre": "Lubrilax 7,5 MG/ML Gotas Orales 30 ML",
+        "precio": "7,16 €"
+    },
+    {
+        "nombre": "Magion 450 MG 40 Comprimidos Masticables",
+        "precio": "2,45 €"
+    },
+    {
+        "nombre": "Magnesia Cinfa 2,4 GR 14 Sobres",
+        "precio": "5,72 €"
+    },
+    {
+        "nombre": "Iniston Tusiv 15 MG 20 Sobres Solución Oral",
+        "precio": "8,96 €"
+    },
+    {
+        "nombre": "Interdol 5 MG/5 MG 20 Comprimidos para Chupar",
+        "precio": "6,26 €"
+    },
+    {
+        "nombre": "Interfrin 0.5 MG/ML Nebulizador Nasal 15 ML",
+        "precio": "6,26 €"
+    },
+    {
+        "nombre": "Intergrip 10 Sobres Polvo para Solución Oral",
+        "precio": "7,66 €"
+    },
+    {
+        "nombre": "Intermucol 750 MG 12 Sobres Solución Oral 15 ML",
+        "precio": "6,89 €"
+    },
+    {
+        "nombre": "Iodina 100 MG/ML Solución Tópica 40 ML",
+        "precio": "4,50 €"
+    },
+    {
+        "nombre": "Magnesia Lainco 2,4 GR 14 Sobres Suspensión Oral 12 ML",
+        "precio": "4,38 €"
+    },
+    {
+        "nombre": "Magnesia Lainco 200 MG/ML Suspensión Oral 1 Frasco 220 ML",
+        "precio": "4,78 €"
+    },
+    {
+        "nombre": "Magnesia Seid 2,4 GR 14 Sobres Polvo para Suspensión Oral",
+        "precio": "4,08 €"
+    },
+    {
+        "nombre": "Magnesioboi 50 Comprimidos",
+        "precio": "10,04 €"
+    },
+    {
+        "nombre": "Melanasa 20 MG/G Crema 15 GR",
+        "precio": "14,27 €"
+    },
+    {
+        "nombre": "Menalmina 10 MG/ML Solución Tópica 1 Frasco 40 ML",
+        "precio": "4,13 €"
+    },
+    {
+        "nombre": "Menaven 1000 UI/G Crema 1 Tubo 60 GR",
+        "precio": "10,54 €"
+    },
+    {
+        "nombre": "Menaven Gel 60 GR",
+        "precio": "10,54 €"
+    },
+    {
+        "nombre": "Mercromina Film 20 MG/ML Solución Cutánea 1 Frasco 250 ML",
+        "precio": "6,04 €"
+    },
+    {
+        "nombre": "Minoxidil Biorga 50 MG/ML Solución Cutánea 1 Frasco 60 ML",
+        "precio": "9,00 €"
+    },
+    {
+        "nombre": "Minoxidil Biorga 50 MG/ML Solución Cutánea 3 Frascos 60 ML",
+        "precio": "18,90 €"
+    },
+    {
+        "nombre": "Moonbell EFG 1,5 MG 1 Comprimido",
+        "precio": "18,45 €"
+    },
+    {
+        "nombre": "Motosol MG/ML Jarabe 1 Frasco 200 ML",
+        "precio": "7,18 €"
+    },
+    {
+        "nombre": "Mucibron 3 MG/ML Solución Oral 1 Frasco 200 ML",
+        "precio": "7,11 €"
+    },
+    {
+        "nombre": "Mucibron Forte 6 MG/ML Solución Oral 1 Frasco 250 ML",
+        "precio": "8,60 €"
+    },
+    {
+        "nombre": "Muciplazma 500 MG 50 Cápsulas",
+        "precio": "8,78 €"
+    },
+    {
+        "nombre": "Muximed Jarabe 200 ML EFG",
+        "precio": "3,96 €"
+    },
+    {
+        "nombre": "Canespie Bifonazol 30 ml",
+        "precio": "8,98 €"
+    },
+    {
+        "nombre": "Navela EFG 1,5 MG 1 Comprimido",
+        "precio": "17,87 €"
+    },
+    {
+        "nombre": "Nervikan 160 MG/80 MG 50 Comprimidos Recubiertos",
+        "precio": "10,25 €"
+    },
+    {
+        "nombre": "Nicokern 2 MG 108 Chicles Sabor Menta",
+        "precio": "28,10 €"
+    },
+    {
+        "nombre": "Nicokern 2 MG 24 Chicles Sabor Menta",
+        "precio": "8,96 €"
+    },
+    {
+        "nombre": "Nicokern 4 MG 108 Chicles Sabor Menta",
+        "precio": "33,44 €"
+    },
+    {
+        "nombre": "Nicokern 4 MG 24 Chicles Sabor Menta",
+        "precio": "13,63 €"
+    },
+    {
+        "nombre": "Nicorette 2 MG 210 Chicles",
+        "precio": "56,42 €"
+    },
+    {
+        "nombre": "Nicorette 4 MG Classic 30 Chicles",
+        "precio": "14,04 €"
+    },
+    {
+        "nombre": "Nicorette Freshfruit 2 MG 105 Chicles",
+        "precio": "33,98 €"
+    },
+    {
+        "nombre": "Nicorette Ice Mint 4 MG 105 Chicles",
+        "precio": "41,45 €"
+    },
+    {
+        "nombre": "Nicotinell 2 MG Cool Mint 12 Chicles",
+        "precio": "5,24 €"
+    },
+    {
+        "nombre": "Nicotinell 2 MG Cool Mint 24 Chicles",
+        "precio": "9,84 €"
+    },
+    {
+        "nombre": "Nicotinell 4 MG Mint 96 Chicles",
+        "precio": "35,33 €"
+    },
+    {
+        "nombre": "Nicotinell 7 MG 14 Parches",
+        "precio": "56,17 €"
+    },
+    {
+        "nombre": "Nicotinell 14 MG 28 Parches",
+        "precio": "99,31 €"
+    },
+    {
+        "nombre": "Nicotinell 14 MG 7 Parches",
+        "precio": "31,57 €"
+    },
+    {
+        "nombre": "Nicotinell 21 MG 7 Parches",
+        "precio": "31,57 €"
+    },
+    {
+        "nombre": "Nicotinell 21 MG 28 Parches",
+        "precio": "99,31 €"
+    },
+    {
+        "nombre": "Nicotinell Fruit 4 MG 96 Chicles",
+        "precio": "35,33 €"
+    },
+    {
+        "nombre": "Nicotinell Mint 2 MG 96 Comprimidos",
+        "precio": "38,52 €"
+    },
+    {
+        "nombre": "Niquitin Clear 14 MG 14 Parches",
+        "precio": "56,07 €"
+    },
+    {
+        "nombre": "Niquitin Clear 14 MG 28 Parches",
+        "precio": "99,18 €"
+    },
+    {
+        "nombre": "Niquitin Clear 14 MG 7 Parches",
+        "precio": "31,48 €"
+    },
+    {
+        "nombre": "Niquitin Clear 21 MG 14 Parches",
+        "precio": "56,07 €"
+    },
+    {
+        "nombre": "Niquitin Clear 21 MG 28 Parches",
+        "precio": "99,18 €"
+    },
+    {
+        "nombre": "Niquitin Clear 21 MG 7 Parches",
+        "precio": "31,48 €"
+    },
+    {
+        "nombre": "Niquitin Clear 7 MG 14 Parches",
+        "precio": "56,07 €"
+    },
+    {
+        "nombre": "Niquitin Mint 2 MG 100 Chicles",
+        "precio": "29,48 €"
+    },
+    {
+        "nombre": "Niquitin Mint 2 MG 30 Chicles",
+        "precio": "11,95 €"
+    },
+    {
+        "nombre": "Normobucal 200 MG/ML Aerosol 5 ML",
+        "precio": "8,37 €"
+    },
+    {
+        "nombre": "Normodol 400 MG 20 Sobres",
+        "precio": "5,36 €"
+    },
+    {
+        "nombre": "Normofit 60 MG 42 Cápsulas",
+        "precio": "26,64 €"
+    },
+    {
+        "nombre": "Normogastrol 20 MG 14 Comprimidos",
+        "precio": "5,36 €"
+    },
+    {
+        "nombre": "Normogrip Granulado 10 Sobres",
+        "precio": "7,83 €"
+    },
+    {
+        "nombre": "Normogrip 14 Cápsulas",
+        "precio": "7,47 €"
+    },
+    {
+        "nombre": "Normonasal 0,5 MG/ML Pulverización Nasal 15 ML",
+        "precio": "4,86 €"
+    },
+    {
+        "nombre": "Normosept 10 MG/ML Solución 25 ML",
+        "precio": "5,36 €"
+    },
+    {
+        "nombre": "Normostop 50 MG 12 Comprimidos",
+        "precio": "4,19 €"
+    },
+    {
+        "nombre": "Normostop Cafeína 50 MG 12 Comprimidos",
+        "precio": "4,33 €"
+    },
+    {
+        "nombre": "Normostop Cafeína 50 MG 4 Comprimidos",
+        "precio": "3,29 €"
+    },
+    {
+        "nombre": "Normovidona 100 MG/ML Solución Cutánea 1 Frasco",
+        "precio": "4,41 €"
+    },
+    {
+        "nombre": "Notus 0,2% Solución Oral 200 ML",
+        "precio": "7,34 €"
+    },
+    {
+        "nombre": "Notus Antitusivo 10 MG 24 Pastillas para Chupar Miel - Limón",
+        "precio": "6,03 €"
+    },
+    {
+        "nombre": "Notus Antitusivo y Expectorante 2 MG/ML + 20 MG/ML",
+        "precio": "7,34 €"
+    },
+    {
+        "nombre": "Notus Mucolítico 50MG/ML Solución Oral 200 ML",
+        "precio": "7,52 €"
+    },
+    {
+        "nombre": "Omeprazol Sandoz Care EFG 20 MG 14 Cápsulas Gastrorresistentes",
+        "precio": "5,08 €"
+    },
+    {
+        "nombre": "Omeprotect 20 MG 14 Cápsulas Gastrorresistentes",
+        "precio": "3,56 €"
+    },
+    {
+        "nombre": "Optalidon 500 MG/75 MG 6 Supositorios",
+        "precio": "7,32 €"
+    },
+    {
+        "nombre": "Optialerg 5 MG/ML + 0,25 MG/ML Colirio en Solución 1 Frasco",
+        "precio": "7,83 €"
+    },
+    {
+        "nombre": "Optispring 0,5 MG/ML Colirio en Solución 10 Monodosis 0,5 ML",
+        "precio": "6,17 €"
+    },
+    {
+        "nombre": "Orliloss 60 MG 120 Cápsulas",
+        "precio": "56,20 €"
+    },
+    {
+        "nombre": "Orliloss 60 MG 42 Cápsulas",
+        "precio": "36,18 €"
+    },
+    {
+        "nombre": "Orliloss 60 MG 84 Cápsulas",
+        "precio": "50,99 €"
+    },
+    {
+        "nombre": "Salvarina 24 Cápsulas",
+        "precio": "5,85 €"
+    },
+    {
+        "nombre": "Salviamed 51 MG 30 Comprimidos",
+        "precio": "14,39 €"
+    },
+    {
+        "nombre": "Sargisthene 1 GR 20 Ampollas Bebibles Solución Oral 5 ML",
+        "precio": "12,57 €"
+    },
+    {
+        "nombre": "Sedisleep 500 MG 28 Comprimidos Recubiertos",
+        "precio": "14,05 €"
+    },
+    {
+        "nombre": "Sedisleep 500 MG 56 Comprimidos Recubiertos",
+        "precio": "25,15 €"
+    },
+    {
+        "nombre": "Sedistress 200 MG 42 Comprimidos Recubiertos",
+        "precio": "13,49 €"
+    },
+    {
+        "nombre": "Sedistess 98 Comprimidos Recubiertos",
+        "precio": "24,59 €"
+    },
+    {
+        "nombre": "Serragrip 10 Sobres Polvo para Solución Oral",
+        "precio": "6,96 €"
+    },
+    {
+        "nombre": "Simeticona Normon 40 MG 30 Comprimidos Masticables",
+        "precio": "3,51 €"
+    },
+    {
+        "nombre": "Sobrepin 100 MG 24 Cápsulas",
+        "precio": "3,46 €"
+    },
+    {
+        "nombre": "Sobrepin 8 MG/ML Jarabe 1 Frasco 150 ML",
+        "precio": "3,53 €"
+    },
+    {
+        "nombre": "Sobrepin Infantil 100 MG 10 Supositorios",
+        "precio": "3,02 €"
+    },
+    {
+        "nombre": "Soñodor Difenhidramina 50 MG 10 Comprimidos",
+        "precio": "6,66 €"
+    },
+    {
+        "nombre": "Sor Virginia 1 Aposito Adhesivo Medicamentoso",
+        "precio": "5,14 €"
+    },
+    {
+        "nombre": "Sorbenor 1 GR 20 Ampollas Bebibles Solución Oral 5 ML",
+        "precio": "15,60 €"
+    },
+    {
+        "nombre": "Spasmo Urgenin 40 Grageas",
+        "precio": "7,19 €"
+    },
+    {
+        "nombre": "Strepsils Ciruela 24 Pastillas para Chupar",
+        "precio": "7,55 €"
+    },
+    {
+        "nombre": "Periactin 4 MG 30 Comprimidos",
+        "precio": "7,20 €"
+    },
+    {
+        "nombre": "Pharmafren 200 MG/3 MG 20 Cápsulas Duras",
+        "precio": "8,24 €"
+    },
+    {
+        "nombre": "Pomada Belladona Orravan 25 GR",
+        "precio": "3,86 €"
+    },
+    {
+        "nombre": "Postinor 1,5 MG 1 Comprimido",
+        "precio": "22,41 €"
+    },
+    {
+        "nombre": "Potenciator 5 GR 20 Ampollas De 10 ML",
+        "precio": "12,57 €"
+    },
+    {
+        "nombre": "Suplemento de Glicerina Cuve Niños 12 Supositorios",
+        "precio": "4,34 €"
+    },
+    {
+        "nombre": "Redseng 300 MG 100 Cápsulas",
+        "precio": "39,29 €"
+    },
+    {
+        "nombre": "Supositorios de Glicerina Vilardell Adultos 12 Supositorios",
+        "precio": "4,32 €"
+    },
+    {
+        "nombre": "Redseng 300 MG 30 Cápsulas",
+        "precio": "16,57 €"
+    },
+    {
+        "nombre": "Redseng 300 MG 50 Cápsulas",
+        "precio": "24,66 €"
+    },
+    {
+        "nombre": "Regender 120 MG 24 Cápsulas",
+        "precio": "11,00 €"
+    },
+    {
+        "nombre": "Supositorios de Glicerina Vilardell Adultos 18 Supositorios",
+        "precio": "5,04 €"
+    },
+    {
+        "nombre": "Remidol Granulado Solucion Oral 10 Sobres",
+        "precio": "7,11 €"
+    },
+    {
+        "nombre": "Remifemin 20 MG 60 Comprimidos",
+        "precio": "16,16 €"
+    },
+    {
+        "nombre": "Rennie 84 Comprimidos Masticables Sabor Menta-Limón",
+        "precio": "10,26 €"
+    },
+    {
+        "nombre": "Respidina Expectorante Junior Solución Oral 120 ML",
+        "precio": "5,81 €"
+    },
+    {
+        "nombre": "Rhinocort 64 Microgramos Pulverización Nasal 120 Dosis",
+        "precio": "8,96 €"
+    },
+    {
+        "nombre": "Supositorios de Glicerina Vilardell Lactantes 0,92 GR 6 Supositorios",
+        "precio": "4,32 €"
+    },
+    {
+        "nombre": "Rinomicine 10 Sobres",
+        "precio": "8,08 €"
+    },
+    {
+        "nombre": "Supositorios de Glicerina Vilardell Lactantes 0,92 GR 15 Supositorios",
+        "precio": "5,04 €"
+    },
+    {
+        "nombre": "Rinotec 0,5 MG/ML Pulverizacion Nasal 15 ML",
+        "precio": "4,50 €"
+    },
+    {
+        "nombre": "Sal De Frutas Eno 10 Sobres 5 GR",
+        "precio": "4,38 €"
+    },
+    {
+        "nombre": "Salmagne Polvo 125 GR",
+        "precio": "8,98 €"
+    },
+    {
+        "nombre": "Salvacan 5 MG/GR Gel 60 GR",
+        "precio": "6,84 €"
+    },
+    {
+        "nombre": "Salvacolina 0,2 MG/ML Solución Oral 100 ML",
+        "precio": "7,66 €"
+    },
+    {
+        "nombre": "Salvacolina Flas 2 MG 6 Comprimidos Bucodispersables",
+        "precio": "5,63 €"
+    },
+    {
+        "nombre": "Salvacolina Flas 2 MG 12 Comprimidos Bucodispersables",
+        "precio": "8,01 €"
+    },
+    {
+        "nombre": "Tavonin 120 MG 15 Comprimidos Recubiertos",
+        "precio": "16,50 €"
+    },
+    {
+        "nombre": "Tavonin 120 MG 30 Comprimidos Recubiertos",
+        "precio": "31,33 €"
+    },
+    {
+        "nombre": "Tebofortan 120 MG 15 Comprimidos Recubiertos",
+        "precio": "16,50 €"
+    },
+    {
+        "nombre": "Tebofortan 120 MG 30 Comprimidos Recubiertos",
+        "precio": "31,33 €"
+    },
+    {
+        "nombre": "Tebofortan 240 MG 30 Comprimidos Recubiertos",
+        "precio": "47,97 €"
+    },
+    {
+        "nombre": "Termalgin 650 MG 20 Comprimidos",
+        "precio": "3,60 €"
+    },
+    {
+        "nombre": "TIntura Yodo Orravan Solución 40 ML",
+        "precio": "4,21 €"
+    },
+    {
+        "nombre": "Topionic 10% Solución 100 ML",
+        "precio": "4,48 €"
+    },
+    {
+        "nombre": "Supositorios de Glicerina Vilardell Niños 1,58 GR 18 Supositorios",
+        "precio": "5,04 €"
+    },
+    {
+        "nombre": "Variliv Troxerutina 1 GR Granulado 30 Sobres",
+        "precio": "15,57 €"
+    },
+    {
+        "nombre": "Tuselin Descongestivo Jarabe 200 ML",
+        "precio": "7,09 €"
+    },
+    {
+        "nombre": "Tusheel 30 Películas Bucodispersables",
+        "precio": "6,75 €"
+    },
+    {
+        "nombre": "Ulipristal Mylan 30 MG 1 Comprimido",
+        "precio": "18,46 €"
+    },
+    {
+        "nombre": "Tantum 30 MG/G Pomada 1 Tubo 50 GR",
+        "precio": "6,35 €"
+    },
+    {
+        "nombre": "Ulipristal Stada 30 MG 1 Comprimido",
+        "precio": "18,83 €"
+    },
+    {
+        "nombre": "Tantum Verde 0,51 MG Pulverización 15 ML",
+        "precio": "8,51 €"
+    },
+    {
+        "nombre": "Vincigrip 12 Cápsulas",
+        "precio": "8,01 €"
+    },
+    {
+        "nombre": "Virlix Plus 5 MG/120 MG 14 Comprimidos Liberación Prolongada",
+        "precio": "9,50 €"
+    },
+    {
+        "nombre": "Viruderm 2 GR Pomada",
+        "precio": "3,78 €"
+    },
+    {
+        "nombre": "Viscoteina Solución Oral 200 ML",
+        "precio": "5,61 €"
+    },
+    {
+        "nombre": "Ibuprofeno Stadapharm 400 MG 20 Cápsulas Blandas",
+        "precio": "3,86 €"
+    },
+    {
+        "nombre": "AAS 500 MG 20 Comprimidos",
+        "precio": "2,25 €"
+    },
+    {
+        "nombre": "Gelodol Crema 1 Tubo 50 GR",
+        "precio": "8,54 €"
+    },
+    {
+        "nombre": "Cinfa Antihemorroidal Pomada 30 GR",
+        "precio": "6,62 €"
+    },
+    {
+        "nombre": "Thrombocid Forte 5 MG/G Pomada 1 Tubo 100 GR",
+        "precio": "11,38 €"
+    },
+    {
+        "nombre": "Siccafluid Gel Oftálmico 30 Monodosis",
+        "precio": "6,26 €"
+    },
+    {
+        "nombre": "Omeprazol Stadapharm 20 MG 14 Cápsulas Gastrorresistentes",
+        "precio": "3,51 €"
+    },
+    {
+        "nombre": "Paracetamol Stadapharm EFG 650 MG 20 Comprimidos",
+        "precio": "3,57 €"
+    },
+    {
+        "nombre": "Paracetamol Farmamabo EFG 1000 MG 10 Comprimidos",
+        "precio": "3,15 €"
+    },
+    {
+        "nombre": "Paracetamol Mabo 500 MG 20 Comprimidos",
+        "precio": "3,29 €"
+    },
+    {
+        "nombre": "Benzac Wash 50 MG/G Gel Cutáneo 100 GR",
+        "precio": "16,65 €"
+    },
+    {
+        "nombre": "Nurofen Rapid 400 MG 20 Cápsulas Blandas",
+        "precio": "6,29 €"
+    },
+    {
+        "nombre": "Ibuprofeno Teva 400 MG 20 Cápsulas Blandas",
+        "precio": "4,21 €"
+    },
+    {
+        "nombre": "Normodol EFG 400 MG 12 Sobres Granulado para Solución Oral",
+        "precio": "4,73 €"
+    },
+    {
+        "nombre": "Ibuprofeno Normon 40 MG 150 ML",
+        "precio": "3,38 €"
+    },
+    {
+        "nombre": "Gaviscon Forte 24 Comprimidos Masticables",
+        "precio": "7,97 €"
+    },
+    {
+        "nombre": "Ibuprofeno Normon 20 MG Jarabe",
+        "precio": "2,25 €"
+    },
+    {
+        "nombre": "Omekaste 20 MG 14 Cápsulas Gastrorresistentes",
+        "precio": "3,51 €"
+    },
+    {
+        "nombre": "Benadon 300 MG 20 Comprimidos",
+        "precio": "5,28 €"
+    },
+    {
+        "nombre": "Benzac 50 MG/G Gel Cutáneo 40 GR",
+        "precio": "12,10 €"
+    },
+    {
+        "nombre": "Minoxidil Biorga 20 MG/ML Solución Cutánea 1 Frasco 60 ML",
+        "precio": "9,91 €"
+    },
+    {
+        "nombre": "Minoxidil Biorga 20 MG/ML Solución Cutánea 3 Frascos 60 ML",
+        "precio": "17,55 €"
+    },
+    {
+        "nombre": "Angifen 8,75 MG 16 Pastillas para Chupar Sabor Menta",
+        "precio": "8,28 €"
+    },
+    {
+        "nombre": "Kern Pharma Acetilcisteina 600 MG 20 Comprimidos Efervescentes",
+        "precio": "4,54 €"
+    },
+    {
+        "nombre": "Furaseptic Spray 10MG/ML Solución Cutánea 30 ML",
+        "precio": "5,04 €"
+    },
+    {
+        "nombre": "Siccafluid 2,5 MG/GR Gel Oftálmico 10 GR",
+        "precio": "3,58 €"
+    },
+    {
+        "nombre": "Zeninas 30 Comprimidos Recubiertos",
+        "precio": "6,61 €"
+    },
+    {
+        "nombre": "Espididol 400 MG 20 Sobres Granulado Solución Oral Sabor Menta",
+        "precio": "5,36 €"
+    },
+    {
+        "nombre": "Nurofen Rapid 400 MG 10 Cápsulas Blandas",
+        "precio": "4,49 €"
+    },
+    {
+        "nombre": "Orravan Alcohol De Romero 250 ML",
+        "precio": "3,65 €"
+    },
+    {
+        "nombre": "Doctril 400 Forte 20 Comprimidos",
+        "precio": "6,21 €"
+    },
+    {
+        "nombre": "Medebiotin Fuerte 40 Comprimidos",
+        "precio": "3,40 €"
+    },
+    {
+        "nombre": "Foret Agua Oxigenada 1000 ML",
+        "precio": "5,26 €"
+    },
+    {
+        "nombre": "Flogopatch 70 Mg 5 Apósitos Adhesivos 70 MG",
+        "precio": "17,56 €"
+    },
+    {
+        "nombre": "Fodonal 3 MG 24 Pastillas para Chupar Miel Naranja",
+        "precio": "7,61 €"
+    },
+    {
+        "nombre": "Linestat 60 MG 84 Cápsulas",
+        "precio": "37,34 €"
+    },
+    {
+        "nombre": "Cinfatos 10 MG/5 ML Jarabe 200 ML",
+        "precio": "7,34 €"
+    },
+    {
+        "nombre": "Scholmed 10 MG/G Crema 15 GR",
+        "precio": "8,99 €"
+    },
+    {
+        "nombre": "Optispring 0,5 MG/ML Colirio en Solución 1 Frasco 10 ML",
+        "precio": "5,27 €"
+    },
+    {
+        "nombre": "Lopestop 2 MG 20 Cápsulas",
+        "precio": "5,49 €"
+    },
+    {
+        "nombre": "Utagar 20 Comprimidos Para Chupar",
+        "precio": "6,26 €"
+    },
+    {
+        "nombre": "Lacteol 10 Cápsulas",
+        "precio": "9,81 €"
+    },
+    {
+        "nombre": "Tavonin 40 MG 60 Comprimidos Recubiertos",
+        "precio": "18,22 €"
+    },
+    {
+        "nombre": "Gelocatil 250 MG Granulado 12 Sobres",
+        "precio": "3,09 €"
+    },
+    {
+        "nombre": "Dolomidina 500/25 MG 10 Comprimidos Recubiertos",
+        "precio": "7,28 €"
+    },
+    {
+        "nombre": "Espididol 400 MG 12 Comprimidos Recubiertos",
+        "precio": "4,78 €"
+    },
+    {
+        "nombre": "Ardoral 20 Comprimidos",
+        "precio": "5,68 €"
+    },
+    {
+        "nombre": "Iberogast Gotas 20 ML",
+        "precio": "8,96 €"
+    },
+    {
+        "nombre": "Gaviscon 32 Comprimidos Sabor Fresa",
+        "precio": "6,71 €"
+    },
+    {
+        "nombre": "Ultra Levura 50 MG 50 Cápsulas",
+        "precio": "10,75 €"
+    },
+    {
+        "nombre": "Bisolgrip Forte 10 Sobres",
+        "precio": "7,61 €"
+    },
+    {
+        "nombre": "Gelocatil Gripe Forte Con Fenilefrina 10 Sobres",
+        "precio": "0,00 €"
+    },
+    {
+        "nombre": "Termalgin Gripe 10 Sobres",
+        "precio": "6,71 €"
+    },
+    {
+        "nombre": "Pharmagrip Forte 10 Sobres",
+        "precio": "7,16 €"
+    },
+    {
+        "nombre": "Cortafriol Complex 12 Comprimidos",
+        "precio": "7,23 €"
+    },
+    {
+        "nombre": "Bisolgrip 500 MG 10 Sobres",
+        "precio": "8,01 €"
+    },
+    {
+        "nombre": "Nicorette Freshfruit 2 MG 30 Chicles",
+        "precio": "12,32 €"
+    },
+    {
+        "nombre": "Lizipadol 20 MG 18 Pastillas Para Chupar",
+        "precio": "8,28 €"
+    },
+    {
+        "nombre": "Hibitane 5Mg/5Mg Anis 20 Comprimidos",
+        "precio": "5,71 €"
+    },
+    {
+        "nombre": "Hibitane 5Mg/5Mg Mentol 20 Comprimidos",
+        "precio": "5,36 €"
+    },
+    {
+        "nombre": "Lizipadol 17,86 MG/ML Solución Pulverización Bucal 20 ML",
+        "precio": "9,72 €"
+    },
+    {
+        "nombre": "Lizipaina 20 Comprimidos",
+        "precio": "7,19 €"
+    },
+    {
+        "nombre": "Thrombescina 50 Comprimidos Liberación Prolongada",
+        "precio": "15,48 €"
+    },
+    {
+        "nombre": "Frenasal 1 MG/ML Nebulizador Nasal 10 ML",
+        "precio": "6,13 €"
+    },
+    {
+        "nombre": "Vasoconstrictor Nebulizador Nasal 35 ML",
+        "precio": "2,56 €"
+    },
+    {
+        "nombre": "Vasoconstrictor Recambio 70 ML",
+        "precio": "3,15 €"
+    },
+    {
+        "nombre": "Visadron Colirio 10 ML",
+        "precio": "6,18 €"
+    },
+    {
+        "nombre": "Algistick 10 MG/ML Emulsión Tópica Roll-On 60 ML",
+        "precio": "7,11 €"
+    },
+    {
+        "nombre": "Linimento Naion Solución Tópica Pulverización 125 ML",
+        "precio": "8,87 €"
+    },
+    {
+        "nombre": "Pildoras Zeninas X 30",
+        "precio": "6,61 €"
+    },
+    {
+        "nombre": "Nico Hepatocyn 60 Grageas",
+        "precio": "6,12 €"
+    },
+    {
+        "nombre": "Puntual Gotas 15 ML",
+        "precio": "4,46 €"
+    },
+    {
+        "nombre": "Ambroxol Cinfa 15 MG/5 ML Jarabe 200 ML",
+        "precio": "3,96 €"
+    },
+    {
+        "nombre": "Fórmulamucol 6 MG/ML Jarabe 100 ML",
+        "precio": "5,41 €"
+    },
+    {
+        "nombre": "Cinfatos Expectorante Jarabe 200 ML",
+        "precio": "7,29 €"
+    },
+    {
+        "nombre": "Iniston Expectorante Y Descongestivo Jarabe 200 ML",
+        "precio": "8,51 €"
+    },
+    {
+        "nombre": "Fluimucil 200 MG 30 Sobres Granulado",
+        "precio": "6,29 €"
+    },
+    {
+        "nombre": "Reactine Levocabastina 0,5 MG/ML Colirio 10 ML",
+        "precio": "10,76 €"
+    },
+    {
+        "nombre": "Bisolgrip 650 MG 10 Sobres",
+        "precio": "8,72 €"
+    },
+    {
+        "nombre": "Valdispert Complex 60 MG/30 MG 50 Comprimidos",
+        "precio": "10,35 €"
+    },
+    {
+        "nombre": "Arkocápsulas Bardana 350 MG 48 Cápsulas",
+        "precio": "7,38 €"
+    },
+    {
+        "nombre": "Arkocápsulas Sen 300 MG 48 Cápsulas",
+        "precio": "6,21 €"
+    },
+    {
+        "nombre": "Arkocápsulas Hamamelis 290 MG 45 Cápsulas",
+        "precio": "7,38 €"
+    },
+    {
+        "nombre": "Arkocápsulas Amapola De California 84 Cápsulas",
+        "precio": "13,41 €"
+    },
+    {
+        "nombre": "Arkocápsulas Vid Roja 270 MG 42 Cápsulas",
+        "precio": "7,11 €"
+    },
+    {
+        "nombre": "Arkocápsulas Vid Roja 270 MG 84 Cápsulas",
+        "precio": "11,61 €"
+    },
+    {
+        "nombre": "Ultra Levura 250 MG 10 Sobres",
+        "precio": "10,75 €"
+    },
+    {
+        "nombre": "Isdinium 1 MG/GR Pomada Rectal 30 GR",
+        "precio": "7,14 €"
+    },
+    {
+        "nombre": "Ellaone Anticoncepción De Urgencia 30 MG 1 Comprimido",
+        "precio": "25,66 €"
+    },
+    {
+        "nombre": "Ultra Levura 50 MG 20 Cápsulas Duras",
+        "precio": "8,06 €"
+    },
+    {
+        "nombre": "Regaine 50 MG/GR Espuma Cutánea 1 U",
+        "precio": "22,50 €"
+    },
+    {
+        "nombre": "Lacovin 20 MG/ML Solución Cutánea 2X60 ML",
+        "precio": "17,55 €"
+    },
+    {
+        "nombre": "Metamucil 3,26 GR Naranja 30 Sobres",
+        "precio": "7,43 €"
+    },
+    {
+        "nombre": "ArkoCápsulas Alcachofa 150 MG 84 Cápsulas",
+        "precio": "12,15 €"
+    },
+    {
+        "nombre": "Alopexy 50 MG/ML Solución Tópica 60 ML",
+        "precio": "14,20 €"
+    },
+    {
+        "nombre": "Gaviscon 32 Comprimidos Sabor Menta",
+        "precio": "6,71 €"
+    },
+    {
+        "nombre": "ArkoCápsulas Fucus 100 MG 42 Cápsulas",
+        "precio": "7,56 €"
+    },
+    {
+        "nombre": "ArkoCápsulas Ginseng 300 MG 84 Cápsulas",
+        "precio": "22,05 €"
+    },
+    {
+        "nombre": "Nurofen Pediátrico 20 MG/ML Naranja 200 ML",
+        "precio": "6,80 €"
+    },
+    {
+        "nombre": "Soñodor Doxilamina 25 MG Polvo Oral 14 Sobres",
+        "precio": "5,36 €"
+    },
+    {
+        "nombre": "Bisolvon Expectorante 8,25 MG/ML 100 ML",
+        "precio": "7,64 €"
+    },
+    {
+        "nombre": "Hidropolivit A Mineral 30 Comprimidos Masticables",
+        "precio": "6,58 €"
+    },
+    {
+        "nombre": "Miraclar Solución Oftálmica 10 ML",
+        "precio": "5,78 €"
+    },
+    {
+        "nombre": "Cristalmina 10 MG/ML Solución Cutánea 125 ML",
+        "precio": "10,76 €"
+    },
+    {
+        "nombre": "Vaselina Mentolada Orravan Pomada 13 GR",
+        "precio": "2,80 €"
+    },
+    {
+        "nombre": "Dolcopin 1 GR Polvo Para Suspensión Oral 30 Sobres",
+        "precio": "5,53 €"
+    },
+    {
+        "nombre": "Hepro Pomada Rectal 10 Cánulas",
+        "precio": "21,08 €"
+    },
+    {
+        "nombre": "Ictiomen Casen Polvo Cutáneo 50 GR",
+        "precio": "9,23 €"
+    },
+    {
+        "nombre": "Carena Pomada 65 GR",
+        "precio": "7,29 €"
+    },
+    {
+        "nombre": "Pruina Pasta Laxante 240 GR",
+        "precio": "8,11 €"
+    },
+    {
+        "nombre": "Puntualex Gotas 5 ML",
+        "precio": "4,15 €"
+    },
+    {
+        "nombre": "Duplo Nicorette BucoMist 1 MG",
+        "precio": "55,89 €"
+    },
+    {
+        "nombre": "Ambroxol Ratio Jarabe 200 ML EFG",
+        "precio": "4,86 €"
+    },
+    {
+        "nombre": "Anatac 750 MG 20 Sobres Granuladopara Solución Oral",
+        "precio": "7,30 €"
+    },
+    {
+        "nombre": "Anestefarin 5 MG/5 MG 20 Comprimidos para Chupar",
+        "precio": "7,16 €"
+    },
+    {
+        "nombre": "Anginocom 5 MG/5 MG 20 Comprimidos para Chupar Sabor Limón",
+        "precio": "6,69 €"
+    },
+    {
+        "nombre": "Anginocom 5 MG/5 MG 20 Comprimidos para Chupar Sabor Naranja",
+        "precio": "6,69 €"
+    },
+    {
+        "nombre": "Antigrietun Pomada 30 GR",
+        "precio": "8,53 €"
+    },
+    {
+        "nombre": "Orravan Alcohol 96 Grados 1000 ML",
+        "precio": "25,19 €"
+    },
+    {
+        "nombre": "Alcamon Reforzado Alcohol Con Cetilpiridinio 70 Grados 500 ML",
+        "precio": "2,70 €"
+    },
+    {
+        "nombre": "Alcamon Reforzado Alcohol Con Cetilpiridinio 70 Grados 1000 ML",
+        "precio": "4,68 €"
+    },
+    {
+        "nombre": "Alcamon Reforzado Alcohol Con Cetilpiridinio 96 Grados 1000 ML",
+        "precio": "0,00 €"
+    },
+    {
+        "nombre": "Algifast 400 MG 4 Sobres",
+        "precio": "1,89 €"
+    },
+    {
+        "nombre": "Alopexy 20 MG/ML Solución Cutánea 60 ML",
+        "precio": "14,20 €"
+    },
+    {
+        "nombre": "Alopexy 50 MG/ML Solución Cutánea 3X60 ML",
+        "precio": "20,61 €"
+    },
+    {
+        "nombre": "Antirrinum Adultos 0.5 MG/ML Nebulizador Nasal 15 ML",
+        "precio": "3,43 €"
+    },
+    {
+        "nombre": "Antistax 360 MG 30 Comprimidos Recubiertos",
+        "precio": "19,58 €"
+    },
+    {
+        "nombre": "Aragel 50 MG/G Gel Cutáneo 1 Tubo 60 GR",
+        "precio": "6,03 €"
+    },
+    {
+        "nombre": "Arkocapsulas Alcachofa 42 Cápsulas",
+        "precio": "7,38 €"
+    },
+    {
+        "nombre": "Arkocapsulas Amapola California 42 Cápsulas",
+        "precio": "8,01 €"
+    },
+    {
+        "nombre": "Arkocapsulas Castaño de Indias 84 Cápsulas",
+        "precio": "13,41 €"
+    },
+    {
+        "nombre": "Arkocapsulas Eleuterococo 48 Cápsulas",
+        "precio": "8,91 €"
+    },
+    {
+        "nombre": "Arkocapsulas Ginseng 42 Cápsulas",
+        "precio": "13,05 €"
+    },
+    {
+        "nombre": "Arkocapsulas Guarana 340 MG 84 Cápsulas",
+        "precio": "13,32 €"
+    },
+    {
+        "nombre": "Arkocapsulas Guarana 42 Cápsulas",
+        "precio": "8,55 €"
+    },
+    {
+        "nombre": "Arkocapsulas Harpagofito 42 Cápsulas",
+        "precio": "8,01 €"
+    },
+    {
+        "nombre": "Arkocapsulas Hinojo 300 MG 42 Cápsulas",
+        "precio": "7,38 €"
+    },
+    {
+        "nombre": "Arkocapsulas Melisa 48 Capsulas",
+        "precio": "7,38 €"
+    },
+    {
+        "nombre": "Arkocapsulas Raiz de Ortiga 290 MG 48 Cápsulas",
+        "precio": "7,38 €"
+    },
+    {
+        "nombre": "Arkocapsulas Rusco 48 Cápsulas",
+        "precio": "7,38 €"
+    },
+    {
+        "nombre": "Benexol B1-B6-B12 30 Comprimidos Recubiertos",
+        "precio": "17,76 €"
+    },
+    {
+        "nombre": "Calmiox 5 MG/G Crema 1 Tubo 30 GR",
+        "precio": "7,16 €"
+    },
+    {
+        "nombre": "Calmiox Rectal 1 MG Crema Rectal 30 GR",
+        "precio": "12,93 €"
+    },
+    {
+        "nombre": "Cinfamar Infantil Solución Oral 6 Unidades",
+        "precio": "4,23 €"
+    },
+    {
+        "nombre": "Clorexidina/Benzocaina/Enoxolona Sandoz Care 30 Comprimidos",
+        "precio": "6,80 €"
+    },
+    {
+        "nombre": "Co-Bucal Solución Tópica 150 ML",
+        "precio": "3,38 €"
+    },
+    {
+        "nombre": "Crecil 40 Cápsulas",
+        "precio": "9,69 €"
+    },
+    {
+        "nombre": "Diurinat Gotas Orales en Suspensión 1 Frasco 50 ML",
+        "precio": "8,43 €"
+    },
+    {
+        "nombre": "Dolostop 650 MG 12 Comprimidos",
+        "precio": "2,32 €"
+    },
+    {
+        "nombre": "Doxilamina Sando Care 25 MG 14 Comprimidos Recubiertos",
+        "precio": "6,44 €"
+    },
+    {
+        "nombre": "Echinamed 30 Comprimidos",
+        "precio": "14,39 €"
+    },
+    {
+        "nombre": "Eucabal Jarabe 1 Frasco 100 ML",
+        "precio": "5,93 €"
+    },
+    {
+        "nombre": "Extracto de Curcuma Centrum 100 MG 30 Comprimidos",
+        "precio": "28,45 €"
+    },
+    {
+        "nombre": "Herpial 50 MG/G Crema 1 Tubo 2 GR",
+        "precio": "3,51 €"
+    },
+    {
+        "nombre": "Hidrocisdin 0,5% Crema 30 GR",
+        "precio": "6,28 €"
+    },
+    {
+        "nombre": "Hirudoid Forte 4,45 MG/G Pomada 1 Tubo 60 GR",
+        "precio": "7,24 €"
+    },
+    {
+        "nombre": "Ibufen 400 MG 20 Comprimidos Recubiertos",
+        "precio": "4,19 €"
+    },
+    {
+        "nombre": "Incebral 140 MG/ML Gotas Orales en Suspensión 1 Frasco 50 ML",
+        "precio": "6,48 €"
+    },
+    {
+        "nombre": "Infloran 20 Cápsulas",
+        "precio": "9,90 €"
+    },
+    {
+        "nombre": "Kanova Niños Solución Rectal 6 Enemas",
+        "precio": "5,83 €"
+    },
+    {
+        "nombre": "Kitonail Barniz Uñas Medicamentoso 80 MG",
+        "precio": "12,72 €"
+    },
+    {
+        "nombre": "Termosan Pasta 33,6 GR",
+        "precio": "6,21 €"
+    },
+    {
+        "nombre": "Linestat 60 MG 42 Cápsulas",
+        "precio": "26,99 €"
+    },
+    {
+        "nombre": "Lunafem 28 Cápsulas Blandas",
+        "precio": "15,30 €"
+    },
+    {
+        "nombre": "Intertos 15 MG 20 Comprimidos",
+        "precio": "4,56 €"
+    },
+    {
+        "nombre": "Iodina 100 MG/ML Solución Tópica 125 ML",
+        "precio": "5,69 €"
+    },
+    {
+        "nombre": "Menalcol Reforzado 96º Solución Cutánea 1 Frasco 500 ML",
+        "precio": "3,15 €"
+    },
+    {
+        "nombre": "Novag Tuss 15 MG 20 Comprimidos",
+        "precio": "6,89 €"
+    },
+    {
+        "nombre": "Novidol 50 MG/G Gel Cutáneo 1 Tubo 100 GR",
+        "precio": "11,65 €"
+    },
+    {
+        "nombre": "Nurofen Junior 100 MG 24 Cápsulas Blandas Masticables",
+        "precio": "9,79 €"
+    },
+    {
+        "nombre": "Okaltus 10 MG/100 MG 20 Sobres Solución Oral 5 ML",
+        "precio": "9,01 €"
+    },
+    {
+        "nombre": "Sedergine C 330 MG/200 MG 20 Comprimidos Efervescentes",
+        "precio": "3,83 €"
+    },
+    {
+        "nombre": "Poli Abe 30 Comprimidos Recubiertos",
+        "precio": "7,25 €"
+    },
+    {
+        "nombre": "Sabelín 300 MG Cápsulas Duras 60 Cápsulas",
+        "precio": "5,54 €"
+    },
+    {
+        "nombre": "Salvarina 12 Cápsulas",
+        "precio": "3,96 €"
+    },
+    {
+        "nombre": "Tranquigor 30 Cápsulas Blandas",
+        "precio": "7,16 €"
+    },
+    {
+        "nombre": "Tromboben Forte 5 MG/GR Crema 60 GR",
+        "precio": "6,89 €"
+    },
+    {
+        "nombre": "Ginejuvent Líquido 250 ML",
+        "precio": "8,29 €"
+    },
+    {
+        "nombre": "Algipatch 140 MG 5 Apósitos Adhesivos Medicamentosos",
+        "precio": "12,12 €"
+    },
+    {
+        "nombre": "ArkoCápsulas Grosellero Negro 340 MG 48 Cápsulas",
+        "precio": "7,11 €"
+    },
+    {
+        "nombre": "Magnesium Pyre 50 Comprimidos",
+        "precio": "9,84 €"
+    },
+    {
+        "nombre": "Tromboben 1 MG/GR Crema 60 GR",
+        "precio": "5,58 €"
+    },
+    {
+        "nombre": "Gaviscon Forte 32 Comprimidos",
+        "precio": "8,23 €"
     }
 ]
