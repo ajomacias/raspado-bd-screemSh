@@ -11,9 +11,12 @@ let productos = JSON.parse(data);
     console.log(rows);
     //const [rows, fields] = await connection.execute('SELECT * FROM `table` WHERE `name` = ? AND `age` > ?', ['Morty', 14]);
 
-    //for(let i = 0; i < productos.length; i++ ){
-     // await connection.execute('INSERT INTO `productos` (`id`, `nombre`, `precio`, `imagen`) VALUES (NULL, ?, ?, NULL)',[productos[i].nombre,productos[i].precio])
-    //}
+    for(let i = 0; i < productos.length; i++ ){
+      let imagen;
+      imagen = `imagen${i}.png`;
+    
+      await connection.execute('INSERT INTO `productos` (`id`, `nombre`, `precio`, `imagen`) VALUES (NULL, ?, ?, ?)',[productos[i].nombre,productos[i].precio,imagen]);
+    }
    
   })
 
